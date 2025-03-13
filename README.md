@@ -5,8 +5,9 @@ CPU-X is a Android App to Monitor Android System Info. Easily monitor Battery, S
 
 ### Screenshots
 ![Screenshot 1](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105810.png)
-
-
+![Screenshot 2](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105815.png)
+![Screenshot 3](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105820.png)
+![Screenshot 4](!https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105851.png)
 #### Features 
 - Supported Sensor info
 - Network info
