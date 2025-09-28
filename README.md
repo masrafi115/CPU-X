@@ -4,12 +4,10 @@ Description: CPU X gives information about device hardware and software specific
 CPU-X is a Android App to Monitor Android System Info. Easily monitor Battery, Storage, CPU, Sensor, OS, RAM of your Android device
 
 ### Screenshots
-![Screenshot 1](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105810.png)
-![Screenshot 2](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105815.png)
-![Screenshot 3](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105820.png)
-![Screenshot 4](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105851.png)
-![Screenshot 5](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105856.png)
-![Screenshot 6](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105904.png)
+
+| | | | | | |
+|---|---|---|---|---|---|
+| ![Screenshot 1](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105810.png) | ![Screenshot 2](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105815.png) | ![Screenshot 3](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105820.png) | ![Screenshot 4](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105851.png) | ![Screenshot 5](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105856.png) | ![Screenshot 6](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-105904.png) |
 
 #### Features 
 - Supported Sensor info
